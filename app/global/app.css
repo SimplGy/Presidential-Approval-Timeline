@@ -1,14 +1,3 @@
-h1 {
-  font-size: 40px;
-  margin: 0;
-  margin-bottom: 10px; }
-
-ul {
-  list-style: none;
-  margin: 0;
-  padding: 0; }
-
-label {
-  display: block;
-  font-weight: bold;
-  color: #999999; }
+header {
+  margin: 20px 0;
+  margin-left: 20%; }

@@ -14,7 +14,7 @@
     css: 'app/**/*.css',
     html: 'app/*.html',
     js: ['app/**/*.js', '!bower_components/**/*.js'],
-    lib: [''],
+    lib: ['bower_components/chartjs/Chart.js'],
     app: 'app',
     dist: '.dist'
   };

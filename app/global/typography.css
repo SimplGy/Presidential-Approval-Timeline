@@ -1,8 +1,13 @@
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #4c4c4c;
-  background: white;
+  background: #f7f7f7;
   font-size: 12px; }
+
+h1 {
+  font-size: 40px;
+  margin: 0;
+  margin-bottom: 10px; }
 
 .muted {
   color: #999999; }

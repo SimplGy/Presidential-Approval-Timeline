@@ -19,7 +19,7 @@ locations =
     '!bower_components/**/*.js'
   ]
   lib: [
-    ''
+    'bower_components/chartjs/Chart.js'
   ]
   app: 'app'
   dist: '.dist'
