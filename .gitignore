@@ -1,6 +1,0 @@
-node_modules
-.sass-cache
-.idea/
-.module-cache
-bower_components/
-.dist/

@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/app/amCharts.js" />
+        <item url="file://$PROJECT_DIR$/app/index.js" />
+        <item url="file://$PROJECT_DIR$/gulpfile.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/timeline-amcharts/amCharts.js" />
+      <root url="file://$PROJECT_DIR$/app/index.js" />
+      <root url="file://$PROJECT_DIR$/gulpfile.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
