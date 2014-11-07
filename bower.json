@@ -10,6 +10,8 @@
     "tests"
   ],
   "dependencies": {
-    "chartjs": "~0.2.0"
+    "chartjs": "~0.2.0",
+    "amcharts": "~3.11.2",
+    "lodash": "~2.4.1"
   }
 }

@@ -19,7 +19,11 @@ locations =
     '!bower_components/**/*.js'
   ]
   lib: [
+    'bower_components/lodash/dist/lodash.min.js'
     'bower_components/chartjs/Chart.js'
+    'bower_components/amcharts/dist/amcharts/amcharts.js'
+    'bower_components/amcharts/dist/amcharts/serial.js'
+    'bower_components/amcharts/dist/amcharts/themes/none.js'
   ]
   app: 'app'
   dist: '.dist'
